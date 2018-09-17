@@ -30,4 +30,23 @@ On this template repository their is instractions of how exectlly you add your o
 #### *How to check if everything is work fine?*
 1. Create course in Moodle as Admin(you can enter as admin using the username and password you entered on the Moodle installation from stage 2.) ---> creating a course done by: Site Administration->Courses tab->Manage courses and categories->Create new course.  
 2. Return to the Site Home and enter to the course OR click on "save and review" after you finish the creation of the new course.
-3. Follow the next pictures:
+3. Follow the next pictures:  
+* Enable adding a new activity to course:  
+![alt text](https://github.com/barakmen/Moodle-HDM-Plugin/blob/master/plugin-turn%20on%20editing%20course.png "Enable adding a new activity to course")  
+
+* Choose add new activity:
+![alt text](https://github.com/barakmen/Moodle-HDM-Plugin/blob/master/plugin-add%20activity.png "Choose add new activity")  
+
+* Choose our hdm plugin:
+![alt text](https://github.com/barakmen/Moodle-HDM-Plugin/blob/master/plugin-add%20hdm%20plugin.png "Choose our hdm plugin")  
+
+* Get into the course and choose the new added hdm plugin:
+![alt text](https://github.com/barakmen/Moodle-HDM-Plugin/blob/master/plugin-choose%20the%20added%20plugin.png "Get into the course and choose the new added hdm plugin")
+
+* Finally, if everything is work fine you need to see our HDM System loaded inside the moodle !!!!!! see it in the following picture:
+![alt text](https://github.com/barakmen/Moodle-HDM-Plugin/blob/master/plugin.png "If you see this its means that everithing work good !")
+
+
+
+
+# Thank you very much for trying our Hdm System plugin ! 
